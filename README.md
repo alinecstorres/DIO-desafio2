@@ -2,7 +2,7 @@
 
 <P> Bem vindos! </P>
 
-Este é o projeto que realizei após ter cursado o módulo I do Bootcamp da TQI Fullstack Developer.
+Este é o projeto que realizei após ter cursado o módulo II do Bootcamp da TQI Fullstack Developer.
 
 Espero estar evoluindo, pois estou entrando neste mundo DEV há 3 meses.
 
